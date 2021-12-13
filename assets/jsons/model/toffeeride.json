@@ -1,0 +1,121 @@
+[
+    {
+        "_id": "5b5b0ad56ec3c83b0b60c1e7",
+        "type": "article",
+        "name": "A00041_03_Nutrients",
+        "age_level": [
+            99
+        ],
+        "cover_page_img": "",
+        "language": "English",
+        "syllabus_class": "",
+        "school": "",
+        "region": "",
+        "subject": "EVS",
+        "pages": [
+            {
+                "text": "<span data-show=\"0.099444\" data-duration=\"13.47876\"><span data-begin=\"0.099444\" data-dur=\"2.055169\"> \r\n</span><span data-begin=\"2.291348\" data-dur=\"0.700249\"><u>Nutrients</u>\r\n</span><span data-begin=\"2.991597\" data-dur=\"0.323192\">are\r\n</span><span data-begin=\"3.314789\" data-dur=\"0.894993\">classified\r\n</span><span data-begin=\"4.209782\" data-dur=\"0.314905\">into\r\n</span><span data-begin=\"4.524687\" data-dur=\"0.704392\">five.\r\n</span><span data-begin=\"5.693150\" data-dur=\"0.331478\">They\r\n</span><span data-begin=\"6.024628\" data-dur=\"0.468214\">are:<br>\r\n</span><span data-begin=\"7.048069\" data-dur=\"0.580088\">1.\r\n</span><span data-begin=\"8.117089\" data-dur=\"1.209898\">Carbohydrates<br>\r\n</span><span data-begin=\"10.047953\" data-dur=\"0.397775\">2.\r\n</span><span data-begin=\"10.922229\" data-dur=\"0.911567\">Proteins<br>\r\n</span><span data-begin=\"12.505040\" data-dur=\"0.472358\">3.\r\n</span><span data-begin=\"13.532625\" data-dur=\"0.80798\">Fats<br>\r\n</span><span data-begin=\"15.003562\" data-dur=\"0.604949\">4.\r\n</span><span data-begin=\"16.138877\" data-dur=\"0.820411\">Vitamins,\r\n</span><span data-begin=\"17.328058\" data-dur=\"0.360483\">and<br>\r\n</span><span data-begin=\"17.688541\" data-dur=\"0.71268\">5.\r\n</span><span data-begin=\"18.765848\" data-dur=\"0.807979\">Minerals\r\n</span></span>",
+                "image1": "images/IM003144_RS.png",
+                "image2": "",
+                "image3": "",
+                "audio": "audio/AU002831.mp3",
+                "audio_duration": "",
+                "sequence": "",
+                "image_array_base64": [
+                    "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM003144_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6e34f80f9269d96e9486634fe76feca6748b857d81b773dc98d5998ea93ce552"
+                ],
+                "audio_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/audio/AU002831.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=073b95d4639e4c28905956940017180a009be496804134b7189194ae6e937c70"
+            },
+            {
+                "text": "<span data-show=\"0.269699\" data-duration=\"6.029698\"><span data-begin=\"0.269699\" data-dur=\"0.934314\"><u>Carbohydrates</u> \r\n</span><span data-begin=\"1.204013\" data-dur=\"0.263278\">give \r\n</span><span data-begin=\"1.476923\" data-dur=\"0.401338\">our \r\n</span><span data-begin=\"1.878261\" data-dur=\"0.584348\">body \r\n</span><span data-begin=\"2.462609\" data-dur=\"0.568294\">energy.<br><br>\r\n</span><span data-begin=\"3.534983\" data-dur=\"0.452709\">Hence, \r\n</span><span data-begin=\"4.286288\" data-dur=\"0.301806\">they \r\n</span><span data-begin=\"4.588094\" data-dur=\"0.250434\">are \r\n</span><span data-begin=\"4.880268\" data-dur=\"0.404548\">called \r\n</span><span data-begin=\"5.458194\" data-dur=\"0.54903\">energy-giving\r\n</span><span data-begin=\"6.392508\" data-dur=\"0.947158\">nutrients.\r\n</span></span>",
+                "image1": "images/IM002698_RS.png",
+                "image2": "",
+                "image3": "",
+                "audio": "audio/AU002832.mp3",
+                "audio_duration": "",
+                "sequence": "",
+                "image_array_base64": [
+                    "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM002698_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=315c2d3e7047a40ad9877c21fdf17d8a845bbbb998b52097756e93042428a1dd"
+                ],
+                "audio_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/audio/AU002832.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=f397e0f387209a2021c1e8b78f71215d4254f1bccb625ac2cfa893ce3096b4d6"
+            },
+            {
+                "text": "",
+                "image1": "images/IM003245_RS.png",
+                "image2": "",
+                "image3": "",
+                "audio": "audio/AU002833.mp3",
+                "audio_duration": "",
+                "sequence": "",
+                "image_array_base64": [
+                    "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM003245_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6d84e9f6bc0297a0b09b7ff5547341b02ea618549dc4345e800fb3379a2b9f2c"
+                ],
+                "audio_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/audio/AU002833.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=a8a947803e8f6a80c26a6c4b4eaebfac8ae2389b2329b703b11efa5dc23ac18e"
+            },
+            {
+                "text": "<span data-show=\"0.163975\" data-duration=\"5.02773\"><span data-begin=\"0.163975\" data-dur=\"0.169021\">Do \r\n</span><span data-begin=\"0.332996\" data-dur=\"0.211906\">you \r\n</span><span data-begin=\"0.544902\" data-dur=\"0.227043\">like \r\n</span><span data-begin=\"0.771945\" data-dur=\"0.587787\">food \r\n</span><span data-begin=\"1.538844\" data-dur=\"0.380927\">such \r\n</span><span data-begin=\"1.919771\" data-dur=\"0.375881\">as \r\n</span><span data-begin=\"2.381424\" data-dur=\"0.77699\">dosa, \r\n</span><span data-begin=\"3.360229\" data-dur=\"0.784558\">chapati, \r\n</span><span data-begin=\"4.369307\" data-dur=\"0.713923\">noodles,\r\n</span><span data-begin=\"5.123593\" data-dur=\"0.302723\">and \r\n</span><span data-begin=\"5.426316\" data-dur=\"0.496971\">bread?\r\n</span></span>",
+                "image1": "images/IM002690_RS.png",
+                "image2": "",
+                "image3": "",
+                "audio": "audio/AU002834.mp3",
+                "audio_duration": "",
+                "sequence": "",
+                "image_array_base64": [
+                    "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM002690_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=6d3a2c7581908a1dbe312576133514c7c6397c07f8948af6046853f752084a00"
+                ],
+                "audio_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/audio/AU002834.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=c01ef271670235a4b41ffadd9a839e4490b39e848fc26494a5e4a656c9602da3"
+            },
+            {
+                "text": "<span data-show=\"0.188307\" data-duration=\"8.425624\"><span data-begin=\"0.188307\" data-dur=\"0.481714\">These \r\n</span><span data-begin=\"0.687538\" data-dur=\"0.271512\">food \r\n</span><span data-begin=\"0.959050\" data-dur=\"0.613091\">items \r\n</span><span data-begin=\"1.572141\" data-dur=\"0.166411\">are \r\n</span><span data-begin=\"1.738552\" data-dur=\"0.398509\">made \r\n</span><span data-begin=\"2.145819\" data-dur=\"0.293408\">from \r\n</span><span data-begin=\"2.439227\" data-dur=\"0.814536\">cereals \r\n</span><span data-begin=\"3.538412\" data-dur=\"0.39851\">such \r\n</span><span data-begin=\"3.936922\" data-dur=\"0.407267\">as \r\n</span><span data-begin=\"4.405499\" data-dur=\"0.735709\">rice, \r\n</span><span data-begin=\"5.465271\" data-dur=\"0.543023\">wheat, \r\n</span><span data-begin=\"6.222876\" data-dur=\"0.144515\">and \r\n</span><span data-begin=\"6.367391\" data-dur=\"0.586816\">maize \r\n</span><span data-begin=\"7.409646\" data-dur=\"0.232099\">and \r\n</span><span data-begin=\"7.641745\" data-dur=\"0.547402\">hence, \r\n</span><span data-begin=\"8.478176\" data-dur=\"0.416026\">rich \r\n</span><span data-begin=\"8.924857\" data-dur=\"0.253995\">in \r\n</span><span data-begin=\"9.235782\" data-dur=\"1.121081\">carbohydrates.\r\n</span></span>",
+                "image1": "images/IM002695_RS.png",
+                "image2": "images/IM002027_RS.jpg",
+                "image3": "images/IM001983_RS.jpg",
+                "audio": "audio/AU002835.mp3",
+                "audio_duration": "",
+                "sequence": "",
+                "image_array_base64": [
+                    "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM002695_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=ca58f513dcbbef22ba5da648c90c17cd92f1a16aee220d31e109ee3d805cfc85",
+                    "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM002027_RS.jpg_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=ae2f579da9411f94935c735d34377146a49ac4152d3c3d338c9c0fbd88da1141",
+                    "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM001983_RS.jpg_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=e571e2dfb8729d9991ae6ed493336b58c364d24c74acf683d972beeaeea29629"
+                ],
+                "audio_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/audio/AU002835.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=a91adcfd19632aa7a79d313e748466ec17c0fc2ed68db58bbd4d6f68e903a18e"
+            },
+            {
+                "text": "<span data-show=\"0.185019\" data-duration=\"4.621184\"><span data-begin=\"0.185019\" data-dur=\"0.894978\">Bananas \r\n</span><span data-begin=\"1.105814\" data-dur=\"0.240956\">and \r\n</span><span data-begin=\"1.346770\" data-dur=\"0.869161\">potatoes \r\n</span><span data-begin=\"2.319197\" data-dur=\"0.314103\">are \r\n</span><span data-begin=\"2.684933\" data-dur=\"0.54215\">also \r\n</span><span data-begin=\"3.227083\" data-dur=\"0.38725\">rich \r\n</span><span data-begin=\"3.618636\" data-dur=\"0.249561\">in \r\n</span><span data-begin=\"3.885409\" data-dur=\"1.123025\">carbohydrates.\r\n</span></span>",
+                "image1": "images/IM002696_RS.png",
+                "image2": "images/IM002699_RS.png",
+                "image3": "",
+                "audio": "audio/AU002836.mp3",
+                "audio_duration": "",
+                "sequence": "",
+                "image_array_base64": [
+                    "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM002696_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=142ff43902fd0de635426c12c582bc720146b2c8513255a273183e26115bfea3",
+                    "https://toffeeride.s3.ap-south-1.amazonaws.com/images/IM002699_RS.png_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=e64b0115e48b1d799b653f190e1c2b53bb8204c3117adfe692a289141f53f771"
+                ],
+                "audio_base64": "https://toffeeride.s3.ap-south-1.amazonaws.com/audio/AU002836.mp3_base64.txt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJTLLIICT4BZM3VSA%2F20211208%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211208T114039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=aecf5f7289c6a72cc639545bc6576cf01421d107e4c3bab28faa8a285b9be19c"
+            }
+        ],
+        "duration": 56,
+        "title": "Article",
+        "sub_type": "",
+        "tags": "",
+        "file_size": 2997.7200000000003,
+        "cover_page_image_data": null,
+        "image_data": null,
+        "url_params": null,
+        "answer": null,
+        "game": null,
+        "url": null,
+        "cover_page_img_base64": null,
+        "image_base64": null,
+        "answer_base64": null,
+        "audio_base64": null,
+        "music_base64": null,
+        "word_audio_base64": null,
+        "qa_audio_url_base64": null,
+        "rhyme_bg_image_base64": null,
+        "rhyme_audio_url_base64": null,
+        "rhyme_images_base64": [],
+        "elements": []
+    }
+]
